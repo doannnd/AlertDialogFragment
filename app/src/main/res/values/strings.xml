@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlertDialogFragment</string>
+    <string name="show_dialog_button_text">Show Dialog</string>
+    <string name="dialog_message">Are you sure ?</string>
+    <string name="dialog_button_ok">OK</string>
+    <string name="dialog_button_cancel">CANCEL</string>
+    <string name="dialog_title">DEBUG</string>
+</resources>
